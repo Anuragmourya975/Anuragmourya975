@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+<img alt="Coding" width="1200px" height="500px" margin="0" padding="0" src="https://ibb.co/gmpfVhK">
 </p>
 <p align="center">
 Hi👋, My name is Anurag Mourya, and thanks🙏 for checking my profile. I am a 3rd-year student pursuing a bachelor's🎓 in computer science from Mahakal Institute of technology & management🏢 Ujjain Madhyapradesh. I am a passionate learner who's always willing to learn and work across technologies👩‍💻 and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structures and Algorithm skills ( which is the backbone of any programming language ). I'm always ready to improve my programming skills and adopt new technologies.
