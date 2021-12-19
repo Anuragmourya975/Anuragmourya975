@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Coding" height="500px" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
+<img alt="Coding" height="250px" src="https://miro.medium.com/max/960/0*aUDaU8UGC_f1u71_.png">
 </p>
 <hr>
 <h1 align="center">Hi👋, My name is Anurag Mourya,</h1>
